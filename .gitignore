@@ -1,0 +1,26 @@
+# Compiled Java class files
+*.class
+
+# Temporary extracted classes
+lib/mysql_classes/
+
+# Ignore all archives by default, but track the MySQL JDBC Connector JAR
+*.jar
+!lib/mysql-connector-j-9.1.0.jar
+*.war
+*.ear
+
+# Logs and scratch files
+*.log
+scratch/
+
+# Sensitive database configuration containing real local credentials
+db.properties
+db.properties.local
+
+# IDE and OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
