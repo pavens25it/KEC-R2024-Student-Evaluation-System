@@ -47,12 +47,12 @@ The application adheres to the **Kongu Engineering College (Autonomous) Regulati
 
 Click below to download or stream the complete project demonstration video (**`video-project-1_compressed.mp4`**):
 
-[![Download Video](https://img.shields.io/badge/Download_Explanation_Video-MP4_(One--Click_Download)-2ea44f?style=for-the-badge&logo=github)](video-project-1_compressed.mp4?raw=true)
-[![Watch on GitHub](https://img.shields.io/badge/Watch_Online-GitHub_Player-blue?style=for-the-badge&logo=youtube)](video-project-1_compressed.mp4)
+[![Direct Download Video](https://img.shields.io/badge/Download_Explanation_Video-MP4_(Direct_Download)-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/pavens25it/KEC-R2024-Student-Evaluation-System/main/video-project-1_compressed.mp4)
+[![Watch on GitHub](https://img.shields.io/badge/Watch_Online-GitHub_Player-blue?style=for-the-badge&logo=youtube)](https://github.com/pavens25it/KEC-R2024-Student-Evaluation-System/blob/main/video-project-1_compressed.mp4)
 
 > [!TIP]
-> - 📥 **Direct One-Click Download**: [**Download `video-project-1_compressed.mp4`**](video-project-1_compressed.mp4?raw=true) *(or [Mirror Raw Link](https://github.com/pavens25it/KEC-R2024-Student-Evaluation-System/raw/main/video-project-1_compressed.mp4))*
-> - ▶️ **Watch Online on GitHub**: [**Open `video-project-1_compressed.mp4`**](video-project-1_compressed.mp4)
+> - 📥 **Direct One-Click Download**: [**Download `video-project-1_compressed.mp4` (Direct MP4 Stream / Save)**](https://raw.githubusercontent.com/pavens25it/KEC-R2024-Student-Evaluation-System/main/video-project-1_compressed.mp4)
+> - ▶️ **Watch / View Online on GitHub**: [**Watch `video-project-1_compressed.mp4` on GitHub Web Player**](https://github.com/pavens25it/KEC-R2024-Student-Evaluation-System/blob/main/video-project-1_compressed.mp4)
 
 ---
 
