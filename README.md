@@ -29,6 +29,20 @@ The application adheres to the **Kongu Engineering College (Autonomous) Regulati
 
 ---
 
+## 🛠️ Technology Stack
+
+| Component | Technology | Version | Description & Role in Architecture |
+| :--- | :--- | :--- | :--- |
+| **Core Language** | ![Java](https://img.shields.io/badge/Java-21%20%2F%2017+-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Java SE 21 / 17+ | Core application logic, OOP data models, evaluation engine, and menu loop |
+| **Database Engine** | ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white) | MySQL 8.0 Server | Relational storage with strict foreign keys, check constraints, and cascading rules |
+| **Database Driver** | ![JDBC](https://img.shields.io/badge/JDBC-Connector%2FJ-007396?style=flat-square&logo=java&logoColor=white) | MySQL Connector/J 9.1.0 | Type-4 pure Java JDBC driver using `PreparedStatement` to prevent SQL injection |
+| **User Interface** | ![Console](https://img.shields.io/badge/Interface-Menu--Driven%20CLI-black?style=flat-square&logo=gnubash&logoColor=white) | Console / Terminal | 13-item interactive menu with responsive 90-column ASCII tabular reports |
+| **Security & Config** | ![Config](https://img.shields.io/badge/Config-db.properties-2ea44f?style=flat-square) | Java Properties API | Externalized credentials safely decoupled from source code via `.gitignore` |
+| **Build & Scripts** | ![Batch](https://img.shields.io/badge/Automation-Windows%20Batch-0078D6?style=flat-square&logo=windows&logoColor=white) | Windows CMD | 1-click execution scripts (`run.bat`, `compile.bat`, `view_db.bat`, `view_schema.bat`) |
+| **Version Control** | ![Git](https://img.shields.io/badge/VCS-Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white) | Git & GitHub | Distributed version control and project documentation repository |
+
+---
+
 ## 📹 Project Demonstration & Explanation Video
 
 Click below to download or stream the complete project demonstration video (**`video-project-1_compressed.mp4`**):
