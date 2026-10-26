@@ -29,10 +29,24 @@ The application adheres to the **Kongu Engineering College (Autonomous) Regulati
 
 ---
 
+## 📹 Project Demonstration & Explanation Video
+
+Click below to download or stream the complete project demonstration video (**`video-project-1_compressed.mp4`**):
+
+[![Download Video](https://img.shields.io/badge/Download_Explanation_Video-MP4_(One--Click_Download)-2ea44f?style=for-the-badge&logo=github)](video-project-1_compressed.mp4?raw=true)
+[![Watch on GitHub](https://img.shields.io/badge/Watch_Online-GitHub_Player-blue?style=for-the-badge&logo=youtube)](video-project-1_compressed.mp4)
+
+> [!TIP]
+> - 📥 **Direct One-Click Download**: [**Download `video-project-1_compressed.mp4`**](video-project-1_compressed.mp4?raw=true) *(or [Mirror Raw Link](https://github.com/pavens25it/KEC-R2024-Student-Evaluation-System/raw/main/video-project-1_compressed.mp4))*
+> - ▶️ **Watch Online on GitHub**: [**Open `video-project-1_compressed.mp4`**](video-project-1_compressed.mp4)
+
+---
+
 ## 2. Directory Structure
 
 ```
 d:\Anti_Stuff !\JavaProject\
+├── video-project-1_compressed.mp4 # Demonstration & explanation video (direct download)
 ├── kec_schema.sql         # Complete MySQL DDL & DML seed script
 ├── DBConnection.java      # JDBC connection manager (loads db.properties)
 ├── StudentDAO.java        # Student & Course CRUD data access layer
